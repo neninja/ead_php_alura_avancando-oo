@@ -1,5 +1,7 @@
 <?php
 
+namespace Modelo;
+
 class Funcionario
 {
     private $cargo;
